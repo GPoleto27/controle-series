@@ -1,4 +1,4 @@
-# laravel-studying
+# Controle de Séries
 Aplicação web para o estudo do framework PHP Laravel baseado nos cursos da Alura.
 
 <h1>Clonando o Repositório</h1>
