@@ -9,7 +9,7 @@ Aplicação web para o estudo do framework PHP Laravel baseado nos cursos da Alu
 
 <h1>Configurando o Ambiente</h1>
 <ul>
-  <li>Instale o <a href="https://www.php.net/downloads">PHP</a> (caso ainda não tenha instalado)</li>
+  <li>Instale o <a href="https://www.php.net/downloads">PHP</a></li>
   <li>Instale o <a href="https://getcomposer.org/download/">Composer</a></li>
   <li>Instale o Laravel usando o Composer: <code>composer global require laravel/installer</code></li>
   <li>Instale as dependências: <code>composer install</code></li>
