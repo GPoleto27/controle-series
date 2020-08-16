@@ -19,5 +19,5 @@ Aplicação web para o estudo do framework PHP Laravel baseado nos cursos da Alu
   <li>Rode as migrações do banco de dados: <code>php artisan migrate</code></li>
   <li>Suba o servidor: <code>php artisan serve</code></li>
   <li>OBS: a página inicial da aplicação poderá ser acessada em <code>localhost:8000/series</code></li>
-  <li>Abra sua IDE favorita na pasta do proejto e começe a programar :)</li>
+  <li>Abra sua IDE favorita na pasta do projeto e começe a programar :)</li>
 </ul>
